@@ -1,0 +1,59 @@
+.container{
+    background: linear-gradient(#F6EAEA,#4786B6);
+    width:900px;
+    height:450px;
+    margin: auto;
+
+}
+
+.card{
+    height:425px;
+    width: 425px;
+    background: #DEE5E4;
+    float: right;
+    margin:10px;
+
+
+}
+
+.sec1{
+    width:100%;
+    height:200px;
+
+}
+
+img{
+    height:100%;
+    width:100%;
+
+
+}
+
+
+}
+
+.sec4{
+    padding:0 8px 8px 8px;
+
+
+}
+
+
+li{
+    list-style-type: none;
+    display: inline-block;
+
+    margin-left: -10px;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #6A1414;
+}
+
+li:hover {
+    cursor: pointer;
+    background: white;
+    color: tomato;
+}
